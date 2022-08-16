@@ -1,0 +1,42 @@
+/* #h1=ID(h1), .h1=Class(h1) */
+body{
+    padding-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    background: rgba(37, 0, 248, 0.233);
+    text-align: center;
+}
+p1{
+    font-size: 15px;
+}
+p{
+    font-size: 25px;
+}
+label{
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+#row-main{
+    background-color: rgba(44, 199, 199, 0.11);
+    padding-top: 1%;
+
+}
+#result{
+    margin: auto;
+    font-size: 50px;
+    border: solid;
+    background-color: rgba(83, 255, 141, 0.637);
+}
+#result2{
+    font-size: 20px;
+    background-color: rgba(83, 255, 141, 0.637);
+}
+#result3{
+    font-size: 20px;
+    background-color: rgba(83, 255, 141, 0.637);
+}
+#row-btn{
+    padding-top: 10px;
+}
